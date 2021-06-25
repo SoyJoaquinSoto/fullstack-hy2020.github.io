@@ -661,7 +661,7 @@ Aprende sobre los conceptos básicos de los formularios HTML leyendo el tutorial
 
 <h4>0.4: nueva nota</h4>
 
-En el capítulo [Cargando una página que contiene JavaScript - revisada](/es/part0/fundamentos-de-las-aplicaciones-web#cargando-una-página-que-contiene-java-script-revisado) la cadena de eventos causada al abrir la página <https://studies.cs.helsinki.fi/exampleapp/notes> se representa como un [diagrama de secuencia](https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/)
+En el capítulo [Cargando una página que contiene JavaScript - revisada](/es/part0/fundamentos-de-las-aplicaciones-web#cargando-una-pagina-que-contiene-java-script-revisado) la cadena de eventos causada al abrir la página <https://studies.cs.helsinki.fi/exampleapp/notes> se representa como un [diagrama de secuencia](https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/)
 
 El diagrama se hizo usando el servicio [websequencediagrams](https://www.websequencediagrams.com) de la siguiente manera:
 
