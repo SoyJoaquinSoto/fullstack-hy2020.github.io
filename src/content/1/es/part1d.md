@@ -1104,9 +1104,9 @@ Cambie su aplicación para mostrar estadísticas solo una vez que se hayan recop
 Continuemos refactorizando la aplicación. Extraiga los dos componentes siguientes:
 
 - <i>Button</i> para definir los botones utilizados para enviar comentarios
-- <i>Statistics</i> para mostrar una única estadística, por ejemplo, la puntuación media.
+- <i>Statistic</i> para mostrar una única estadística, por ejemplo, la puntuación media.
 
-Para ser claros: el componente <i>Statistics</i> siempre muestra una única estadística, lo que significa que la aplicación utiliza varios componentes para representar todas las estadísticas:
+Para ser claros: el componente <i>Statistic</i> siempre muestra una única estadística, lo que significa que la aplicación utiliza varios componentes para representar todas las estadísticas:
 
 ```js
 const Statistics = (props) => {
