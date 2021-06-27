@@ -1141,7 +1141,7 @@ Luego realice las acciones necesarias para que la advertencia desaparezca. Inten
 
 **¡Asegúrate de que a partir de ahora no veas ninguna advertencia en tu consola!**
 
-<h4>1.12*: anécdotes, paso 1</h4>
+<h4>1.12*: anécdotas, paso 1</h4>
 
 El mundo de la ingeniería de software está lleno con [anécdotas](http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm) que destilan verdades atemporales de nuestro campo en breves frases.
 
